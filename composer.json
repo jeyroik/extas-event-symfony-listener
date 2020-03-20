@@ -1,0 +1,14 @@
+{
+  "name": "jeyroik/extas-event-symfony-listener",
+  "description": "Symfony event listener for using extas stages",
+  "keywords": ["symfony", "event", "php", "extas", "listener"],
+  "require": {
+    "jeyroik/extas-foundation": "3.*",
+    "symfony/event-dispatcher": "5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}
