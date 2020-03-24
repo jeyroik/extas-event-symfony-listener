@@ -3,7 +3,7 @@
   "description": "Symfony event listener for using extas stages",
   "keywords": ["symfony", "event", "php", "extas", "listener"],
   "require": {
-    "jeyroik/extas-foundation": "3.*",
+    "jeyroik/extas-foundation": "4.*",
     "symfony/event-dispatcher": "5.*"
   },
   "autoload": {
